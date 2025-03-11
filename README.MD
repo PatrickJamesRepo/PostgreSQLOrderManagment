@@ -20,7 +20,7 @@
 8. [Future Enhancements](#future-enhancements)
 9. [Appendix](#appendix)
 
----
+
 
 ## 1. Introduction
 
@@ -33,7 +33,7 @@ The Order Management System is a web application that allows customers to:
 
 This document outlines the technical design, architecture, and implementation details.
 
----
+
 
 ## 2. System Overview
 
@@ -42,7 +42,7 @@ This document outlines the technical design, architecture, and implementation de
 - **Frontend:** A React application written in TypeScript and built with Vite. It provides a responsive UI with search, sorting, and toast notifications.
 - **Security:** Basic form-based login with in-memory authentication (demo mode).
 
----
+
 
 ## 3. Architecture
 
@@ -68,7 +68,7 @@ This document outlines the technical design, architecture, and implementation de
   - Toast notifications for feedback
   - Responsive, modern UI
 
----
+
 
 ## 4. Requirements Traceability
 
@@ -99,7 +99,7 @@ This document outlines the technical design, architecture, and implementation de
 - Controllers map functional requirements to REST endpoints.
 - The frontend implements required UI features.
 
----
+
 
 ## 5. Design & Implementation
 
@@ -161,7 +161,6 @@ This document outlines the technical design, architecture, and implementation de
 - **Forms:** For adding products, registering users, placing orders, and creating transactions.
 - **Toast Notifications:** Feedback on operations (success/error).
 
----
 
 
 
@@ -183,7 +182,7 @@ This document outlines the technical design, architecture, and implementation de
   docker-compose -f docker-compose.yml up -d
 
 
----
+
 
 ## Gap Analysis
 
