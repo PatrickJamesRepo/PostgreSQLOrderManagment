@@ -1,5 +1,5 @@
 # Order Management System Technical Documentation
-![Order Management System](display.pnf)
+![Order Management System](sqlflow.pnf)
 
 ## Table of Contents
 1. [Introduction](#introduction)
