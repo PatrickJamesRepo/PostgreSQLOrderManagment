@@ -1,5 +1,5 @@
 # Order Management System Technical Documentation
-![Order Management System](sqlflow.pnf)
+![Order Management System](/sqlflow.pnf)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -166,7 +166,7 @@ This document outlines the technical design, architecture, and implementation de
 
 ## 6. Flow Chart & SQL ERD
 
-![SQL/ERD and Flow Chart ](sqlflow.pnf)
+![SQL/ERD and Flow Chart ](/sqlflow.pnf)
 
 ## 7. Build, Deployment, and Testing
 
