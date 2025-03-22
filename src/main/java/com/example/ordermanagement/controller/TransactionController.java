@@ -1,6 +1,6 @@
 package com.example.ordermanagement.controller;
 
-import com.example.ordermanagement.dto.TransactionDTO;
+import com.example.ordermanagement.model.dto.TransactionDTO;
 import com.example.ordermanagement.model.Order;
 import com.example.ordermanagement.model.Transaction;
 import com.example.ordermanagement.repository.OrderRepository;

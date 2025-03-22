@@ -1,4 +1,4 @@
-package com.example.ordermanagement.dto;
+package com.example.ordermanagement.model.dto;
 
 public class TransactionDTO {
     private Long orderId;
